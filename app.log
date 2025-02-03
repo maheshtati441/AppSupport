@@ -1,0 +1,55 @@
+2025-02-02 23:50:14,048 - INFO - Application started.
+2025-02-02 23:50:35,821 - INFO - Application started.
+2025-02-02 23:50:41,357 - INFO - Application started.
+2025-02-02 23:50:41,452 - INFO - Excel file loaded successfully.
+2025-02-02 23:50:53,758 - INFO - Application started.
+2025-02-02 23:50:53,799 - INFO - Excel file loaded successfully.
+2025-02-02 23:50:55,103 - INFO - Application started.
+2025-02-02 23:50:55,123 - INFO - Excel file loaded successfully.
+2025-02-02 23:50:55,124 - INFO - User submitted issue: User reported security concern affecting system performance.
+2025-02-02 23:50:55,127 - INFO - Found 14 similar issues.
+2025-02-03 00:12:06,409 - INFO - Application started.
+2025-02-03 00:12:12,067 - INFO - Application started.
+2025-02-03 00:12:13,527 - INFO - Excel file loaded successfully.
+2025-02-03 00:12:22,207 - INFO - Application started.
+2025-02-03 00:12:22,220 - INFO - Excel file loaded successfully.
+2025-02-03 00:12:22,222 - INFO - User submitted issue: User reported security concern affecting system performance.
+2025-02-03 00:12:22,225 - INFO - Found 14 similar issues.
+2025-02-03 11:00:09,662 - INFO - Application started.
+2025-02-03 11:00:47,314 - INFO - Application started.
+2025-02-03 11:00:53,788 - INFO - Application started.
+2025-02-03 11:00:53,913 - INFO - Excel file loaded successfully.
+2025-02-03 11:01:18,021 - INFO - Application started.
+2025-02-03 11:01:18,080 - INFO - Excel file loaded successfully.
+2025-02-03 11:01:18,083 - INFO - User submitted issue: User reported performance issue affecting system performance.
+2025-02-03 11:01:18,088 - INFO - Found 16 similar issues.
+2025-02-03 11:02:13,549 - INFO - Application started.
+2025-02-03 11:02:13,551 - INFO - Application started.
+2025-02-03 11:02:13,625 - INFO - Excel file loaded successfully.
+2025-02-03 11:02:21,770 - INFO - Application started.
+2025-02-03 11:02:21,804 - INFO - Excel file loaded successfully.
+2025-02-03 11:02:21,808 - INFO - User submitted issue: User reported installation issue for docker. what are the settings to be modified
+2025-02-03 11:02:21,809 - INFO - Found 0 similar issues.
+2025-02-03 11:02:24,153 - INFO - HTTP Request: POST https://mahes-m6n9mtgc-eastus2.openai.azure.com/openai/deployments/gpt-4/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-02-03 11:02:24,154 - INFO - AI response generated in 2.34 seconds.
+2025-02-03 11:10:54,840 - INFO - Application started.
+2025-02-03 11:11:11,855 - INFO - Application started.
+2025-02-03 11:11:11,968 - INFO - Excel file loaded successfully.
+2025-02-03 11:11:43,111 - INFO - Application started.
+2025-02-03 11:11:43,115 - INFO - Application started.
+2025-02-03 11:11:43,184 - INFO - Excel file loaded successfully.
+2025-02-03 11:11:49,287 - INFO - Application started.
+2025-02-03 11:11:49,321 - INFO - Excel file loaded successfully.
+2025-02-03 11:11:49,325 - INFO - User submitted issue: what are the requirements for docker to be installed?
+2025-02-03 11:11:49,328 - INFO - Found 0 similar issues.
+2025-02-03 11:11:50,674 - INFO - HTTP Request: POST https://mahes-m6n9mtgc-eastus2.openai.azure.com/openai/deployments/gpt-4/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-02-03 11:11:50,676 - INFO - AI response generated in 1.35 seconds.
+2025-02-03 12:43:41,673 - INFO - Application started.
+2025-02-03 12:43:46,581 - INFO - Application started.
+2025-02-03 12:43:46,702 - INFO - Excel file loaded successfully.
+2025-02-03 12:44:00,294 - INFO - Application started.
+2025-02-03 12:44:00,304 - INFO - Application started.
+2025-02-03 12:44:00,343 - INFO - Excel file loaded successfully.
+2025-02-03 12:44:00,378 - INFO - Excel file loaded successfully.
+2025-02-03 12:44:00,380 - INFO - User submitted issue: User reported network issue affecting system performance.
+2025-02-03 12:44:00,382 - INFO - Found 21 similar issues.
