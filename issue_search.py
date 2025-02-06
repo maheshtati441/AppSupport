@@ -20,7 +20,11 @@ def search_similar_issues(df, issue_description):
             st.error("Uploaded file must contain 'Issue' and 'Resolution' columns.")
             return []
 
-        results = df[df['Issue'].str.contains(issue_description, case=False, na=False)].to_dict(orient='records')
+        # Filter only closed issues
+        closed_issues = df[df['Status'].str.lower() == 'closed']
+
+        #results = df[df['Issue'].str.contains(issue_description, case=False, na=False)].to_dict(orient='records')
+        results = closed_issues[closed_issues['Issue'].str.contains(issue_description, case=False, na=False)].to_dict(orient='records')
         logger.info(f"Found {len(results)} similar issues.")
         return results
     except Exception as e:
